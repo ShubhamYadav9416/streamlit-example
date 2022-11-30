@@ -1,4 +1,4 @@
-import streamlit s st
+import streamlit as st
 import pandas as pd
 
 st.write("This program divide 2nd number from first")
